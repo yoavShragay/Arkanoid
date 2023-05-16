@@ -3,5 +3,5 @@ This Java project contains the source code for a game implemented using Java. Th
   ## How to Run
 
 To run the project and start the game: 
-compile all the files
-run Ass6Game
+  compile all the files
+  run Ass6Game
